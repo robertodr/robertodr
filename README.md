@@ -1,5 +1,8 @@
 ### Hello :clown_face:
 
+<img align="right" height="270px" width="450px" src="img/laser-eye-cat.gif" />
+<img align="right" height="270px" width="450px" src="img/hamilton-jacobi.jpg" />
+
 <!--
 **robertodr/robertodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
