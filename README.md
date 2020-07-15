@@ -1,7 +1,7 @@
 ### Hello :clown_face:
 
-<img align="right" height="270px" width="450px" src="img/laser-eye-cat.gif" />
-<img align="right" height="270px" width="450px" src="img/hamilton-jacobi.jpg" />
+<img align="right" height="270px" width="450px" src="https://github.com/robertodr/robertodr/blob/master/img/hamilton-jacobi.jpg" style="float: left" />
+<img align="right" height="270px" width="450px" src="https://github.com/robertodr/robertodr/blob/master/img/laser-eye-cat.gif" style="float: right" />
 
 <!--
 **robertodr/robertodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
