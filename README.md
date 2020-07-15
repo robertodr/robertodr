@@ -1,8 +1,8 @@
 ### Hello :clown_face:
 
 <table><tr>
-<img align="left" height="270px" width="450px" src="https://github.com/robertodr/robertodr/blob/master/img/hamilton-jacobi.jpg" style="float: left" />
-<img align="right" height="270px" width="450px" src="https://github.com/robertodr/robertodr/blob/master/img/laser-eye-cat.gif" style="float: right" />
+<img align="left" height="270px" width="350px" src="https://github.com/robertodr/robertodr/blob/master/img/hamilton-jacobi.jpg" style="float: left" />
+<img align="right" height="270px" width="350px" src="https://github.com/robertodr/robertodr/blob/master/img/laser-eye-cat.gif" style="float: right" />
 </tr></table>
 
 
