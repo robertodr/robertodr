@@ -3,6 +3,9 @@
 <img align="right" height="270px" width="450px" src="https://github.com/robertodr/robertodr/blob/master/img/hamilton-jacobi.jpg" style="float: left" />
 <img align="right" height="270px" width="450px" src="https://github.com/robertodr/robertodr/blob/master/img/laser-eye-cat.gif" style="float: right" />
 
+![alt](img/laser-eye-cat.gif) | ![alt](img/hamilton-jacobi.jpg)
+
+
 <!--
 **robertodr/robertodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
